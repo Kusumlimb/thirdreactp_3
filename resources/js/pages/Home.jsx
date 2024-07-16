@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="home">
       <h1>Welcome to My Portfolio</h1>
-      <p>I am a Full Stack Developer with experience in React and Laravel.</p>
+      <p>I am a Kusum Limbu.</p>
     </div>
   );
 }
